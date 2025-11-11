@@ -5,7 +5,7 @@ The project demonstrates basic modular arithmetic, GUI design, and code separati
 
 🚀 How to Run
 Clone this repository:
-git clone https://github.com/Khaled4262/mod-calculator.git
+git clone [https://github.com/Khaled4262/mod-calculator.git](https://github.com/Khaled4262/ModCalculator.git)
 
 Then:
 cd mod-calculator
