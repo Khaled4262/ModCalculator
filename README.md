@@ -7,9 +7,6 @@ The project demonstrates basic modular arithmetic, GUI design, and code separati
 Clone this repository:
 git clone [https://github.com/Khaled4262/mod-calculator.git](https://github.com/Khaled4262/ModCalculator.git)
 
-Then:
-cd mod-calculator
-
 Install dependencies:
 You need Python 3.8+ and CustomTkinter installed.
 
